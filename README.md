@@ -44,7 +44,32 @@ When a user manually logs an expense via the UI, they do not need to select a ca
 6. **Unified Ledger**: A dedicated Transactions tab showing a chronological history of both incomes and expenses.
 
 ---
+## 📸 Screenshots
 
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### AI Chat Assistant
+
+![Chatbot](screenshots/Chatbot.png)
+
+### Goals
+
+![Goals](screenshots/Goals.png)
+
+### Budget Limits
+
+![Budgets](screenshots/budgets.png)
+
+### Transactions
+
+![Transactions](screenshots/Transactions.png)
+
+### Email Alert
+
+![Email](screenshots/Email.png)
+---
 ## 🚀 How to Run the App
 
 Follow these steps to set up and run the app on your local machine:
